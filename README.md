@@ -1,9 +1,7 @@
 <snippet>
   <content><![CDATA[
   
-# Project Name
-
-TODO: Write a project description
+# ${Hola}
 
 ## Installation
 
