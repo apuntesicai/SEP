@@ -1,7 +1,6 @@
 <snippet>
-  <content><![CDATA[
-  
-## {Hola}
+  <content><![CDATA[ 
+# ola
 
 ## Installation
 
