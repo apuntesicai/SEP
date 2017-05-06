@@ -1,6 +1,5 @@
-<snippet>
-  <content><![CDATA[ 
-# ola
+<snippet> 
+## ola
 
 ## Installation
 
@@ -30,6 +29,4 @@ TODO: Write credits
 
 TODO: Write license
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
