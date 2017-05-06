@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
   
-# ${Hola}
+## {Hola}
 
 ## Installation
 
